@@ -1,3 +1,3 @@
-Data Analyst Portfolio Project Repository
-This Repository holds all of the code and queries for the Portfolio Projects created.
+# Data Analyst Portfolio Project Repository
+This repository contains all the code and queries for my projects.
 
